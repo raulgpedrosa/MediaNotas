@@ -26,5 +26,7 @@ public class App {
         media = (nota1 + nota2 + nota3) / 3;
         System.out.println("A media e: " + media);
         media = leitor.nextFloat();
+        
+        //Teste commit github - testando 1, 2, 3!
     }
 }
